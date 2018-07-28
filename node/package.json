@@ -1,0 +1,25 @@
+{
+  "name": "spotify-data-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrape.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "pg": "^7.4.3",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgmneto/spotify-data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgmneto/spotify-data/issues"
+  },
+  "homepage": "https://github.com/dgmneto/spotify-data#readme"
+}
